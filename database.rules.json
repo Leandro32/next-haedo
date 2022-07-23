@@ -1,0 +1,11 @@
+{
+  "rules": {
+    ".read": "true",
+    ".write": "false",  // 2022-5-10
+  "1hz7q6qfT_fzc0xLLJGghmYDh_C1Rjg73Fc44VMcbqAA":{
+   		"Hoja 1": {
+      	          ".indexOn": ["titulo", "categoria", "subcategoria","precio"]  
+								}
+   			}
+    }
+}

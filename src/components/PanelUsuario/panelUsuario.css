@@ -1,0 +1,12 @@
+.navLink {
+  color: black;
+}
+
+.lineaSubrayado::after {
+  content: ' ';
+  border-bottom: 2px solid red;
+  display: block;
+  width: 40%;
+  position: absolute;
+}
+/*# sourceMappingURL=panelUsuario.css.map */

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAEI,KAFC,CAED,MAAM,CAAC;EACH,KAAK,EAAE,IAAI;CAEd",
+    "sources": [
+        "mapa.scss"
+    ],
+    "names": [],
+    "file": "mapa.css"
+}
